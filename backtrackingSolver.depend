@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1632513037 source:c:\users\dron\documents\codeblocks\backtrackingsolver\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
